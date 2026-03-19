@@ -69,18 +69,4 @@ GitHub API → Azure Data Factory → Bronze Layer
 - Enables data-driven decision making  
 
 ---
-
-## 📌 Dashboard Preview
-
-![Executive](Data/executive.png)  
-![Product](Data/product.png)  
-![Customer](Data/customer.png)
-
----
-
-## 🏗️ Pipeline Proof
-
-![ADF](Data/pipelines.png)  
-![Databricks](screenshots/databricks.png)  
-![DataLake](screenshots/data_lake.png)  
-![Synapse](screenshots/synapse.png)
+Author: Ketan Dubey
