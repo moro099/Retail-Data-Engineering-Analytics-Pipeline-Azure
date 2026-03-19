@@ -72,15 +72,15 @@ GitHub API → Azure Data Factory → Bronze Layer
 
 ## 📌 Dashboard Preview
 
-![Executive](screenshots/executive.png)  
-![Product](screenshots/product.png)  
-![Customer](screenshots/customer.png)
+![Executive](Data/executive.png)  
+![Product](Data/product.png)  
+![Customer](Data/customer.png)
 
 ---
 
 ## 🏗️ Pipeline Proof
 
-![ADF](screenshots/adf_pipeline.png)  
+![ADF](Data/pipelines.png)  
 ![Databricks](screenshots/databricks.png)  
 ![DataLake](screenshots/data_lake.png)  
 ![Synapse](screenshots/synapse.png)
